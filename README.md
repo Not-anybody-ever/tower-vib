@@ -1,4 +1,4 @@
-## ## tower-vib
+## tower-vib
 
 Industrial-grade video vibrometry (WIP): ROI caching, phase-based subpixel displacement, and physics-oriented vibration features.
 
